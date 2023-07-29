@@ -1,0 +1,13 @@
+/.idea
+/node_modules
+/.next
+/public
+/coverage
+.env
+.env.*
+!*.cjs
+!*.mjs
+*.tsbuildinfo
+next-env.d.ts
+package-lock.json
+next.config.mjs
